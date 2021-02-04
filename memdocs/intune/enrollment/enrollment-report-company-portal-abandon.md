@@ -33,7 +33,7 @@ ms.collection: M365-identity-device-management
 
 This report tells you where in the Company Portal enrollment process users are not completing the enrollment process.
 
-To see the report, choose **Intune** > **Device enrollment** > **Incomplete user enrollments**.
+To see the report, choose **Devices** > **Monitor** > **Incomplete user enrollments**.
 
 Using this information, you can update your onboarding documents to help users complete enrollment. For example, if many users are quitting at the Terms of Use, you might investigate that area and make it more intuitive for users.
 
